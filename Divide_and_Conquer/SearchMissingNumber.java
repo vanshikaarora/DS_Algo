@@ -16,5 +16,4 @@ class SearchMissingNumber{
     int size = ar.length; 
     System.out.println("Missing number: " +missingNumber(ar, size)); 
     } 
-} 
-  
+}

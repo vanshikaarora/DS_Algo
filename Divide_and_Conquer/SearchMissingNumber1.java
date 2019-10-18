@@ -1,5 +1,5 @@
 class SearchMissingNumber{ 
-    static int missingNumber(int ar[],int size) { 
+    static int missingNumber1(int ar[],int size) { 
         int a = 0, b = size - 1; 
         int mid = 0; 
         while ((b - a) > 1) { 
